@@ -14,9 +14,10 @@ Integrate America's #1 Resume Builder into your WordPress site and boost your af
 
 LiveCareer's Affiliate Plug-In makes it easy to embed our award-winning resume and cover letter builder into your site. Choose from two options: 
 
-Page Implementation: Displays the full resume builder within any page or post through short code.
+**Page Implementation**: Displays the full resume builder within any page or post through short code.
 
-Ad Unit Implementation: Creates a new ad widget in three sizes:
+**Ad Unit Implementation**: Creates a new ad widget in three sizes:
+
 * Rectangle 300px x 250px
 * Skyscraper 160px x 600px
 * Banner 728px x 90px
@@ -24,7 +25,7 @@ Ad Unit Implementation: Creates a new ad widget in three sizes:
 Clicking on any ad unit will bring up the resume builder in a "lightbox" style window.
 Users can create their resume or cover letter without leaving your website. 
 
-Affiliate:
+= Affiliate =
 
 Sign up for an affiliate account at [https://affiliate.livecareer.com/affiliate/affiliateindex.aspx](https://affiliate.livecareer.com/affiliate/affiliateindex.aspx "LiveCareer Affiliate Signup"). Then just enter your affiliate ID on the plug-in setting screen to start making money from traffic right away. Absolutely no coding knowledge needed! 
 
