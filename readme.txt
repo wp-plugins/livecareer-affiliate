@@ -31,7 +31,21 @@ Sign up for an affiliate account at [https://affiliate.livecareer.com/affiliate/
 
 == Installation ==
 
-1. Install as you would any other plugin.
+After downloading, you can install the LiveCareer Affiliate plugin either using your Wordpress dashboard or via FTP.
+
+= Installing from your WordPress dashboard =
+
+1. From your Wordpress admin site, click on *Plugins* in the left panel, then click on *Add New*.
+2. You should now see the Install Plugins page. Click on *Upload*.
+3. Click on *Browse*, and then find the location where you downloaded the plugin file (livecareer-affiliate.zip).
+4. Click on *Install Now*; once install completes, click *Activate*.
+
+= Installing via FTP =
+
+1. Unzip the "livecareer-affiliate.zip" file, and upload its contents into your 'wp-content/plugins' directory.
+2. From your Wordpress admin site, click on *Plugins* in the left panel, and then find the LiveCareer Affiliate plugin and click *Activate*.
+
+After installation, from your Wordpress admin site, in the left panel, go to *Settings* -> *LiveCareer Affiliate*. Enter your referrer ID and you are ready to go!
 
 == Frequently Asked Questions ==
 
