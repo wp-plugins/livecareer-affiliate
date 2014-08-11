@@ -8,22 +8,25 @@ Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Implements a shortcode and widget to conveniently add the LiveCareer affiliate resume builder tool and links to your site or blog.
+Integrate America's #1 Resume Builder into your WordPress site and boost your affiliate revenue. No coding required!   
 
 == Description ==
 
-Be sure to sign up for a referrer id (refid) at LiveCareer.com. Once this plugin is installed and activated, enter your referrer id in the settings page.
+LiveCareer's Affiliate Plug-In makes it easy to embed our award-winning resume and cover letter builder into your site. Choose from two options: 
 
-Shortcode usage example:
+Page Implementation: Displays the full resume builder within any page or post through short code.
 
-Place the following in a page or post:
+Ad Unit Implementation: Creates a new ad widget in three sizes:
+* Rectangle 300px x 250px
+* Skyscraper 160px x 600px
+* Banner 728px x 90px
 
-    [livecareer_affiliate_link]
+Clicking on any ad unit will bring up the resume builder in a "lightbox" style window.
+Users can create their resume or cover letter without leaving your website. 
 
-Widget usage example:
+Affiliate:
 
-From the Appearance -> Widgets page, add the LiveCareer Affiliate Widget to any the section of your site. You can enter a title for the widget (optional). Be sure to choose a banner size that fits the widget's new location.
-
+Sign up for an affiliate account at [https://affiliate.livecareer.com/affiliate/affiliateindex.aspx](https://affiliate.livecareer.com/affiliate/affiliateindex.aspx "LiveCareer Affiliate Signup"). Then just enter your affiliate ID on the plug-in setting screen to start making money from traffic right away. Absolutely no coding knowledge needed! 
 
 == Installation ==
 
@@ -31,13 +34,22 @@ From the Appearance -> Widgets page, add the LiveCareer Affiliate Widget to any 
 
 == Frequently Asked Questions ==
 
-= Where do I get my referrer ID? =
+= Where do I get my affiliate referrer ID? =
 
-* Please visit https://affiliate.livecareer.com/membership/affiliate.aspx.
+Please visit [https://affiliate.livecareer.com/affiliate/affiliateindex.aspx](https://affiliate.livecareer.com/affiliate/affiliateindex.aspx "LiveCareer Affiliate Signup").
 
 = Why am I not getting credit for my referrals? =
 
-* Ensure that your referrer ID is set correctly within the plugin setting page.
+Ensure that your referrer ID is set correctly within the plugin settings page.
+
+= What is the shortcode? Do you have an example of the shortcode usage? =
+
+Place the following in a page or post:
+> [livecareer_affiliate_link]
+
+= How do I use the widget? =
+
+From the Appearance -> Widgets page, add the LiveCareer Affiliate Widget to any the section of your site. You can enter a title for the widget (optional). Be sure to choose a banner size that fits the widget's new location.
 
 == Screenshots ==
 
