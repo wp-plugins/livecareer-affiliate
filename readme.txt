@@ -47,6 +47,7 @@ After downloading, you can install the LiveCareer Affiliate plugin either using 
 
 After installation, from your Wordpress admin site, in the left panel, go to *Settings* -> *LiveCareer Affiliate*. Enter your referrer ID and you are ready to go!
 
+
 == Frequently Asked Questions ==
 
 = Where do I get my affiliate referrer ID? =
