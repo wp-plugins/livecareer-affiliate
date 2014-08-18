@@ -1,6 +1,6 @@
 <?php
 /*
-	Plugin Name: LiveCareer Affiliate Plugin
+	Plugin Name: LiveCareer Affiliate Resume Plugin
 	Plugin URI: https://affiliate.livecareer.com/
 	Description: Implements a shortcode and widget to conveniently add the LiveCareer affiliate resume builder tool and links to your site or blog.
 	Author: LiveCareer

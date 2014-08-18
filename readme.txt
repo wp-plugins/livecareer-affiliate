@@ -1,7 +1,7 @@
-=== LiveCareer Affiliate Plugin ===
+=== LiveCareer Affiliate Resume Plugin ===
 Contributors: Calen Lopata
 Donate Link: http://www.livecareer.com/
-Tags: livecareer, resume, jobsite
+Tags: awards, cv, education, experience, personal branding, resume, automatic resume, curriculum vitae, free CV, free resume, resume plugin, resume widget
 Requires at least: 2.5.x
 Tested up to: 3.9.0
 Stable tag: trunk
@@ -12,7 +12,7 @@ Integrate America's #1 Resume Builder into your WordPress site and boost your af
 
 == Description ==
 
-LiveCareer's Affiliate Plug-In makes it easy to embed our award-winning resume and cover letter builder into your site. Choose from two options: 
+LiveCareer's Affiliate Resume Plugin makes it easy to embed our award-winning resume and cover letter builder into your site. Choose from two options: 
 
 **Page Implementation**: Displays the full resume builder within any page or post through short code.
 
@@ -27,11 +27,11 @@ Users can create their resume or cover letter without leaving your website.
 
 = Affiliate =
 
-Sign up for an affiliate account at [https://affiliate.livecareer.com/affiliate/affiliateindex.aspx](https://affiliate.livecareer.com/affiliate/affiliateindex.aspx "LiveCareer Affiliate Signup"). Then just enter your affiliate ID on the plug-in setting screen to start making money from traffic right away. Absolutely no coding knowledge needed! 
+Sign up for an affiliate account at [https://affiliate.livecareer.com/affiliate/affiliateindex.aspx](https://affiliate.livecareer.com/affiliate/affiliateindex.aspx "LiveCareer Affiliate Signup"). Then just enter your affiliate ID on the plugin setting screen to start making money from traffic right away. Absolutely no coding knowledge needed! 
 
 == Installation ==
 
-After downloading, you can install the LiveCareer Affiliate plugin either using your Wordpress dashboard or via FTP.
+After downloading, you can install the LiveCareer Affiliate Resume Plugin either using your Wordpress dashboard or via FTP.
 
 = Installing from your WordPress dashboard =
 
@@ -43,7 +43,7 @@ After downloading, you can install the LiveCareer Affiliate plugin either using 
 = Installing via FTP =
 
 1. Unzip the "livecareer-affiliate.zip" file, and upload its contents into your 'wp-content/plugins' directory.
-2. From your Wordpress admin site, click on *Plugins* in the left panel, and then find the LiveCareer Affiliate plugin and click *Activate*.
+2. From your Wordpress admin site, click on *Plugins* in the left panel, and then find the LiveCareer Affiliate Resume Plugin and click *Activate*.
 
 After installation, from your Wordpress admin site, in the left panel, go to *Settings* -> *LiveCareer Affiliate*. Enter your referrer ID and you are ready to go!
 
