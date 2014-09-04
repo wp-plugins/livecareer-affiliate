@@ -3,7 +3,7 @@ Contributors: Calen Lopata
 Donate Link: http://www.livecareer.com/
 Tags: awards, cv, education, experience, personal branding, resume, automatic resume, curriculum vitae, free CV, free resume, resume plugin, resume widget
 Requires at least: 2.5.x
-Tested up to: 3.9.0
+Tested up to: 4.0
 Stable tag: trunk
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
